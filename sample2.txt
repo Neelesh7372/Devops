@@ -1,2 +1,4 @@
 This is sample file 1
 This is sample file 2
+
+Git commit sample 2
