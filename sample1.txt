@@ -5,3 +5,4 @@ There are certain changes to be made in the file.
 Git revert sample1
 Change in sample file 1
 
+This is the stash lecture to 1
